@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 70px;
+}
+h2{
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 60px;
+	background-color: #03FF16;
+}
+.contact {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #889ccf;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+.contact h3{
+	font-size: 30px;
+}

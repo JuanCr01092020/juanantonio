@@ -1,0 +1,103 @@
+h1{
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 70px;
+}
+ul{
+	text-align: center;
+	font-size: 20px;
+}
+li{
+	text-align: center;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 50px; 
+}
+.slider{
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+}
+.slider ul{
+	padding: 0;
+	display: flex;
+	width: 400%;
+
+	animation: cambio 20s infinite;
+	animation-direction: alternate;
+
+}
+.slider li{
+	width: 100%;
+	list-style: none;
+}
+.slider img{
+	width: 100%;
+}
+
+@keyframes cambio {
+	0% { margin-left: 0; }
+	20% { margin-left: 0; }
+
+	25% { margin-left: -100%; }
+	45% { margin-left: -100%; }
+
+	50% { margin-left: -200%; }
+	70% { margin-left: -200%; }
+
+	75% { margin-left: -300%; }
+	100% { margin-left: -300%; }
+}
+
+h2{
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	font-size: 40px;
+}
+p{
+	text-align: center; 
+	font-family: 'Signika', sans-serif;
+	font-size: 25px;
+}
+h4{
+	text-align: center;
+	font-family: 'Bangers', cursive;
+	font-size: 30px;
+}
+.caja {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #889ccf;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
+.caja1 {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #0BF07D;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
+.caja1 img{
+	display:block;
+	margin:auto;
+
+	width: 1000px;
+	height: 400px;
+}
+.Piepag {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #C203FF;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}

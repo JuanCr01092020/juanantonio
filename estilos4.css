@@ -1,0 +1,63 @@
+h1{
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 70px;
+}
+h2{
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 60px;
+    background-color: #03FF16;
+}
+.elef{
+	display:block;
+	margin:auto;
+	width: 1000px;
+}
+.Descripcion {
+   font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+background: #FFF703;
+margin: 20px auto;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+width: 50%
+}
+ 
+.Descripcion h3{
+    font-size: 30px;
+    text-align: center;
+}   
+.Alimentacion {
+   font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+background: #FF6603;
+margin: 20px auto;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+width: 50%
+}
+ 
+.Alimentacion h3{
+    font-size: 30px;
+    text-align: center;
+}   
+.Piepag {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #C203FF;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
+.Piepag p{
+	text-align: center; 
+	font-family: 'Signika', sans-serif;
+	font-size: 25px;
+}
